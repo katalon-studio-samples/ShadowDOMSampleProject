@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>Basic testing for Shadow DOM</description>
+   <name>Shadow DOM Testing</name>
+   <tag></tag>
+   <UUID>4a63e152-4866-4d33-9573-e6fd7dcc8b10</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>
